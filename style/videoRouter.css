@@ -1,0 +1,30 @@
+.rotateZero {
+  transform: rotate(0deg);
+}
+
+.rotate90 {
+  transform: rotate(90deg);
+}
+
+.rotate180 {
+  transform: rotate(180deg);
+}
+
+.rotate270 {
+  transform: rotate(270deg);
+}
+
+.ytp-right-controls {
+  display: flex;
+}
+
+.ytp-button.rotate-button {
+  margin-right: 9px;
+}
+
+.ytp-button.rotate-button .ytp-routate-button-img-container {
+  display: flex;
+  justify-content: center;
+  height: 52%;
+  filter: invert(100%);
+}

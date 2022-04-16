@@ -1,0 +1,14 @@
+{
+  "name": "VRote",
+  "version": "1.0.1",
+  "manifest_version": 2,
+
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/*"],
+      "js": ["./js/content.js"],
+      "css": ["./style/videoRouter.css"]
+    }
+  ]
+}
+
