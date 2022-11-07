@@ -1,7 +1,7 @@
 {
   "name": "VRote",
-  "version": "1.0.1",
-  "manifest_version": 2,
+  "version": "2.0.1",
+  "manifest_version": 3,
 
   "content_scripts": [
     {
@@ -11,4 +11,3 @@
     }
   ]
 }
-
