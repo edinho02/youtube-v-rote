@@ -1,5 +1,5 @@
 # VRote
-A google extension that adds rotation functionality to youtube videos. You can rotate videos by 90°, 180°, 270° or 360°
+A google chrome extension that adds rotation functionality to youtube videos. You can rotate videos by 90°, 180°, 270° or 360°
 
 ## Installation guide
 
