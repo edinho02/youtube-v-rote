@@ -16,6 +16,3 @@ Install extension from source:
 * enable "Developer mode"
 * click "Load unpacked extension"
 * select the extension folder in this repo
-
-
-
